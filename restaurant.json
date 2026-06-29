@@ -1,0 +1,72 @@
+{
+  "nombre": "la casa del sabor",
+  "telefono": "+523322468292",
+  "whatsapp": "+523322468292",
+  "google_maps": "https://www.google.com/maps/place/la+casa+del+sabor/@20.6422287,-103.4482122,17z/data=!4m6!3m5!1s0x8428ad43dcc0e5b5:0x7707a0ee96305c27!8m2!3d20.6422203!4d-103.4456001!16s%2Fg%2F11t2pzgp6x?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D",
+  "direccion": "puerto san juan, C. Puerto Guaymas 3521, 45060 Guadalajara, Jal.",
+  "horario": "Horario de atención",
+  "rating": "5.0",
+  "resenas": "0",
+  "nicho": "Google Maps URL",
+  "categoria": "Restaurante de brunch",
+  "sitio_web": "nan",
+  "tiene_web": "no",
+  "colores_sugeridos": [
+    "negro",
+    "blanco",
+    "gris",
+    "color acento adaptable"
+  ],
+  "estilo_sugerido": "moderno, limpio, adaptable a celular",
+  "palabras_clave_seo": [
+    "la casa del sabor",
+    "Google Maps URL",
+    "Google Maps URL cerca de mí",
+    "restaurante en Guadalajara",
+    "reservaciones por WhatsApp"
+  ],
+  "meta_description": "Conoce la casa del sabor, Google Maps URL con ubicación, menú, reseñas y reservaciones por WhatsApp.",
+  "servicios": [
+    "Reservaciones",
+    "Pedidos por WhatsApp",
+    "Ubicación en Google Maps",
+    "Menú destacado"
+  ],
+  "botones": [
+    {
+      "texto": "Reservar por WhatsApp",
+      "tipo": "whatsapp",
+      "url": "https://wa.me/523322468292"
+    },
+    {
+      "texto": "Cómo llegar",
+      "tipo": "maps",
+      "url": "https://www.google.com/maps/place/la+casa+del+sabor/@20.6422287,-103.4482122,17z/data=!4m6!3m5!1s0x8428ad43dcc0e5b5:0x7707a0ee96305c27!8m2!3d20.6422203!4d-103.4456001!16s%2Fg%2F11t2pzgp6x?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
+    }
+  ],
+  "redes_sociales": {
+    "instagram": "",
+    "facebook": "",
+    "tiktok": ""
+  },
+  "imagenes": {
+    "hero": "/hero.jpg",
+    "logo": "/logo.png",
+    "galeria": [
+      "/galeria1.jpg",
+      "/galeria2.jpg",
+      "/galeria3.jpg"
+    ]
+  },
+  "secciones_sugeridas": [
+    "Hero",
+    "Historia",
+    "Especialidades",
+    "Galería",
+    "Menú",
+    "Mapa",
+    "Reseñas",
+    "CTA final",
+    "Footer"
+  ]
+}
